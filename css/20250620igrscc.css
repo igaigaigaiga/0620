@@ -1066,7 +1066,7 @@ h2 {
 p.maintext {
    color:#705868; 
    font-family:Zen Old Mincho;
-   font-size: 9px;
+   font-size: 13px;
 }
 
 p.maintext2 {
@@ -1336,7 +1336,7 @@ opacity:0;
 .img_box80 .date_box {
 }
 .img_box80 img{
-   width: 80%;
+   width: 90%;
 }
 
 /*画像サイズ80右*/
@@ -1420,7 +1420,7 @@ opacity:0;
 .img_box45r .date_box {
 }
 .img_box45r img{
-   width: 60%;
+   width: 75%;
 }
 
 /*画像サイズ45左*/
@@ -1437,5 +1437,5 @@ opacity:0;
 .img_box45l .date_box {
 }
 .img_box45l img{
-   width: 60%;
+   width: 75%;
 }
